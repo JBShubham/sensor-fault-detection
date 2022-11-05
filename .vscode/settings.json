@@ -1,4 +1,14 @@
 {
+<<<<<<< HEAD
     "editor.tabCompletion": "on",
     "diffEditor.codeLens": true
 }
+=======
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "task.allowAutomaticTasks": "on",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  }
+}
+>>>>>>> 3a3768830119f6e8d399dd2909dfaaa031e897b4
